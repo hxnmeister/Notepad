@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/defaultTextStyleMenuItem"
+        android:title="Default" />
+    <item
+        android:id="@+id/boldTextMenuItem"
+        android:title="Bold" />
+    <item
+        android:id="@+id/italicTextMenuItem"
+        android:title="Italic" />
+    <item
+        android:id="@+id/underlineTextMenuItem"
+        android:title="Underline" />
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/defaultBackgroundMenuItem"
+        android:title="Default" />
+    <item
+        android:id="@+id/yellowBackgroundMenuItem"
+        android:title="Yellow" />
+    <item
+        android:id="@+id/blackBackgroundMenuItem"
+        android:title="Black" />
+    <item
+        android:id="@+id/mintBackgroundMenuItem"
+        android:title="Mint" />
+</menu>
